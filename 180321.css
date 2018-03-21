@@ -1,0 +1,30 @@
+.id {
+  display: block;
+  border:1px solid red;
+}
+.id2 {
+  display: inline;
+  border:1px solid black;
+}
+
+.game{
+  border:1px solid red;
+  width: 100px;
+  height: 100px;
+  background:url(http://heem.net/fastcampus/2/image2.png) no-repeat 0 0;
+  text-indent: 10px;
+}
+.gift{
+  border:1px solid red;
+  width: 100px;
+  height: 100px;
+  background:url(http://heem.net/fastcampus/2/image2.png) no-repeat 0 -100px;
+  text-indent: 10px; 
+}
+.coffee{
+  border:1px solid red;
+  width: 100px;
+  height: 100px;
+  background:url(http://heem.net/fastcampus/2/image2.png) no-repeat -200 0;
+  text-indent: 10px; 
+}
